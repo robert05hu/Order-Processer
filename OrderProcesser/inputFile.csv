@@ -1,0 +1,15 @@
+1;123;345;Bob;a@example.com;Pecs X. Y. u. 2;7632;10.00;2.22;SKU;IN_STOCK;2017-02-27
+2;124;346;James;b@example.com;Pecs X. Y. u. 3;7632;10.00;2.22;SKU;IN_STOCK;2017-02-27
+3;125;347;Brian;c@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13
+4;126;348;Andy;a@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13
+6;134;356;John;g@example.com;Pecs X. Y. u. 4;7202;10.00;2.22;SKU;IN_STOCK;2017-01-13
+7;127;357;PostcodeError;a@example.com;Pecs X. Y. u. 4;72b2;10.00;2.22;SKU;IN_STOCK;2017-01-13
+8;126;348;EmailError;a@examplecom;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13
+9;128;;EmptyError;a@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13
+10;129;349;DateError;a@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-0111
+11;130;350;ShippingPriceError;a@example.com;Pecs X. Y. u. 4;7232;-10.00;2.22;SKU;IN_STOCK;2017-01-13
+12;131;351;SalePriceError;a@example.com;Pecs X. Y. u. 4;7232;10.15;-2.22;SKU;IN_STOCK;2017-01-13-23
+13;132;352;StatusError;a@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;INSTOCK;2017-01-13-23
+14;133;348;SameOrderID;x@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13-23
+15;136;348;SameOrderID;x@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13-23
+16;135;347;SameOrderID;x@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13-23
