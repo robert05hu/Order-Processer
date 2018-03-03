@@ -1,6 +1,6 @@
 1;123;345;Bob;a@example.com;Pecs X. Y. u. 2;7632;10.00;2.22;SKU;IN_STOCK;2017-02-27
 2;124;346;James;b@example.com;Pecs X. Y. u. 3;7632;10.00;2.22;SKU;IN_STOCK;2017-02-27
-3;125;347;Brian;c@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13
+3;125;347;Brian;c@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK
 4;126;348;Andy;a@example.com;Pecs X. Y. u. 4;7232;10.00;2.22;SKU;IN_STOCK;2017-01-13
 6;134;356;John;g@example.com;Pecs X. Y. u. 4;7202;10.00;2.22;SKU;IN_STOCK;2017-01-13
 7;127;357;PostcodeError;a@example.com;Pecs X. Y. u. 4;72b2;10.00;2.22;SKU;IN_STOCK;2017-01-13
